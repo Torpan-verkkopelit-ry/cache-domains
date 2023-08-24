@@ -1,3 +1,14 @@
+# Caution!
+## This is custom repo forked from https://github.com/uklans/cache-domains/
+---
+## What has changed from the original
+- steam.txt reverted to stage where there are all domains listed
+- riot.txt, riotgames caching disabled due stuck downloads on League of Legends client
+
+Trying to keep this repo up to date with the original repo, except things above.
+
+
+---
 # Game Content Cache Hostnames
 
 ## Introduction
