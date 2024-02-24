@@ -9,3 +9,16 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+com.edgesuite.net
+com.nsatc.net
+download.windowsupdate.com
+forefrontdl.microsoft.com
+go.microsoft.com
+mp.microsoft.com
+ntservicepack.microsoft.com
+officecdn.microsoft.com
+update.microsoft.com
+windows-update-cache.db
+windowsupdate.com
+windowsupdate.microsoft.com
+wustat.windows.com

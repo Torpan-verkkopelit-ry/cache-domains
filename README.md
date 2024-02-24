@@ -2,8 +2,8 @@
 ## This is custom repo forked from https://github.com/uklans/cache-domains/
 ---
 ## What has changed from the original
-- steam.txt reverted to stage where there are all domains listed
 - riot.txt removed, riotgames caching disabled due stuck downloads on League of Legends client
+- windowsupdates.txt added more hosts based on this issue: https://github.com/uklans/cache-domains/issues/231
 
 Trying to keep this repo up to date with the original repo, except things above.
 
